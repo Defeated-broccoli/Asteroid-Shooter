@@ -1,7 +1,0 @@
-﻿  Game.cpp
-C:\Users\wormx\OneDrive\Pulpit\Microsoft Visual Studio Projects\SFMM\SpaceShooter\SpaceShooter\Game.cpp(61,103): warning C4244: 'argument': conversion from 'T' to 'const float', possible loss of data
-          with
-          [
-              T=unsigned int
-          ]
-  SpaceShooter.vcxproj -> C:\Users\wormx\OneDrive\Pulpit\Microsoft Visual Studio Projects\SFMM\SpaceShooter\x64\Debug\SpaceShooter.exe
